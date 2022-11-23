@@ -1,4 +1,4 @@
-# Organic-Synthesis-Reaction-Pathway-Generator
+# Multi-Step-Organic-Synthesis-Reaction-Pathway-Generator
 
 This package can be used to generate the chemical organic reactions for a multi-step pathway that are required to transform a user-specified initial organic product 
 into a user-specified final organic product. These chemical reactions are based off of those listed in the textbook "Organic Chemistry" by John McMurry. There are 
